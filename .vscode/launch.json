@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DdmCbicApplication<MPR>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ddm.cbic.DdmCbicApplication",
+            "projectName": "MPR",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

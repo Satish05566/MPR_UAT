@@ -1,0 +1,72 @@
+/*!
+ * Start Bootstrap - SB Admin 2 v3.3.7+1 (http://startbootstrap.com/template-overviews/sb-admin-2)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+body {
+            vertical-align: top;
+            font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;   
+            background-color:#D8F2FF;  
+                         
+        }        
+
+        #Report_main {
+            width: 100%;
+            color: #000000;
+        }
+
+            #Report_main h1 {
+                font-size: 23px;
+            }
+
+            #Report_main h2 {
+                font-size: 16px;
+            }
+
+            #Report_main table {
+                width: 100%;
+            }
+
+                #Report_main table th {
+                    border: 1px solid black;
+                    text-transform: uppercase;
+                    font-weight: bold;
+                    font-size: 12px;
+                }
+
+            #Report_main .Report_body td {
+                border: solid 1px black;
+                font-size: 12px;
+            }
+            
+            .header_bcg_clr{
+            /* background: #b3cbe8;
+            text-align:center;
+            text-transform: uppercase; */
+            
+            background: linear-gradient(225deg, #2bd8ff 20%, #003fa5 30% ,#00BDFE 55%) !important;
+		    color: #fff !important;
+            }
+            
+            .header_bcg_clr{                        
+		    background: linear-gradient(225deg, #2bd8ff 20%, #003fa5 30% ,#00BDFE 55%) !important;
+		    color: #fff !important;
+            }
+            
+            .table-datarow-right td{
+            text-align:right;
+            }
+            
+            .table-datarow-right th{
+            text-align:left;
+            font-weight: normal !important;
+            }
+            
+            .table-datarow-center{
+            text-align:center !important;;
+            }
+html{
+	zoom:0.8;
+}

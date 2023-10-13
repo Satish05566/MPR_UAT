@@ -192,6 +192,7 @@ public class GSTHomeController {
 		String userId = (String)request.getSession().getAttribute("USER");
 		String type = (String)request.getSession().getAttribute("TYPE");
 		
+		
 		 ModelAndView mv = new ModelAndView();
 		 mv.addObject("USER",userId);
 		 mv.addObject("TYPE",type); 

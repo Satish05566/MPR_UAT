@@ -26,7 +26,6 @@ public class Controller implements ErrorController {
 		
 		System.out.println("response.getStatus() " + response.getStatus());
 		
-		
 		if(response.getStatus() == HttpStatus.NOT_FOUND.value()) {
 			return "<h1>Requested Resource Not Found. Please contact Administrator Please re-login .</h1>";
 		}
